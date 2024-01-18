@@ -1,0 +1,1379 @@
+Id,Label,Domain,Phylum,Class,Order,Family,Genus,OTU.rep
+5,OTU5,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,X52169.1.1473
+3,OTU3,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,KC003383.1.1321
+39,OTU39,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,DQ009141.1.1996
+19,OTU19,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020549891.3846.5359
+2,OTU2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,AACY024102418.157.1623
+159,OTU159,Bacteria,Chloroflexi,SAR202 clade,,,,AACY020068177.376.1853
+28,OTU28,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,DQ009125.1.1942
+31,OTU31,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020481938.3418.4929
+7,OTU7,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EU802925.1.1450
+53,OTU53,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Marinicella,JQ347414.1.1492
+12,OTU12,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,EF572471.1.1459
+41,OTU41,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,AY664087.1.1207
+38,OTU38,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AACY020125842.54.1493
+138,OTU138,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,DQ156479.1.1258
+4,OTU4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,EU394547.1.1451
+9,OTU9,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,GU940990.1.1405
+17,OTU17,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AACY020564593.3718.5259
+549,OTU549,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ337094.1.1520
+830,OTU830,Bacteria,Proteobacteria,Deltaproteobacteria,Sh765B-TzT-29,,,EF646119.1.1485
+6,OTU6,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802966.1.1361
+186,OTU186,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,FN433412.1.1496
+32,OTU32,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802623.1.1438
+8,OTU8,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY664224.1.1233
+54,OTU54,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802563.1.1450
+662,OTU662,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,FN433426.1.1497
+24,OTU24,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,EU800764.1.1362
+18,OTU18,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AJXC01019507.1.1272
+323,OTU323,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,DQ071172.1.1397
+13,OTU13,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,AM747321.1.1243
+21,OTU21,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,KC001820.1.1315
+268,OTU268,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU799440.1.1451
+22,OTU22,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,EU801991.1.1263
+60,OTU60,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU237344.1.1311
+59,OTU59,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS2b marine group,FQ032828.26868.28381
+11,OTU11,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FJ745117.1.1319
+20,OTU20,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EF572127.1.1520
+16,OTU16,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,GQ348500.1.1314
+29,OTU29,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,DQ299286.1.1392
+65,OTU65,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802420.1.1442
+197,OTU197,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY664083.1.1206
+335,OTU335,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,EF573025.1.1502
+10,OTU10,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU940771.1.1349
+27,OTU27,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802362.1.1310
+1001,OTU1001,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,FQ032830.13921.15433
+136,OTU136,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,DQ009159.1.1986
+23,OTU23,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802280.1.1361
+70,OTU70,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY664234.1.1252
+202,OTU202,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664105.1.1226
+30,OTU30,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,AACY020487638.121.1594
+14,OTU14,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802283.1.1251
+40,OTU40,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU940743.1.1341
+42,OTU42,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802641.1.1377
+34,OTU34,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,KC001946.1.1313
+61,OTU61,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JN547444.1.1442
+49,OTU49,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EF572791.1.1441
+130,OTU130,Bacteria,Chloroflexi,SAR202 clade,,,,AY907820.1.1458
+139,OTU139,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802498.1.1435
+35,OTU35,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802424.1.1247
+84,OTU84,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664135.1.1215
+224,OTU224,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,HQ673137.1.1450
+45,OTU45,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ163443.1.1344
+80,OTU80,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802541.1.1287
+67,OTU67,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JX945367.1.1372
+134,OTU134,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,DQ009277.1.1996
+47,OTU47,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800727.1.1251
+73,OTU73,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU802548.1.1445
+209,OTU209,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,FJ745198.1.1365
+63,OTU63,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EF571939.1.1526
+100,OTU100,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,EU802798.1.1422
+125,OTU125,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU803186.1.1437
+50,OTU50,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803117.1.1251
+150,OTU150,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,EF571926.1.1454
+44,OTU44,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ216327.1.1233
+64,OTU64,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GQ349089.1.1337
+195,OTU195,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oceanobacter,EF574264.1.1492
+976,OTU976,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,AACY020548802.136.1646
+51,OTU51,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FJ745080.1.1326
+94,OTU94,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EU805091.1.1526
+293,OTU293,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,JX945345.1.1443
+233,OTU233,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EF574663.1.1445
+43,OTU43,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,JX945349.1.1357
+55,OTU55,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU940846.1.1513
+97,OTU97,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800517.1.1373
+221,OTU221,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ242373.1.1521
+115,OTU115,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802636.1.1362
+79,OTU79,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FJ744916.1.1319
+76,OTU76,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ163158.1.1317
+114,OTU114,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,GU235302.1.1328
+75,OTU75,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802929.1.1358
+184,OTU184,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802865.1.1431
+420,OTU420,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU801209.1.1437
+72,OTU72,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU801992.1.1230
+86,OTU86,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EF573597.1.1440
+455,OTU455,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,JN177586.1.1440
+245,OTU245,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,EF572648.1.1451
+95,OTU95,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,EU800927.1.1359
+78,OTU78,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,EU801696.1.1459
+133,OTU133,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,AACY023938218.20.1535
+137,OTU137,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU803056.1.1370
+88,OTU88,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ163743.1.1324
+68,OTU68,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EF574411.1.1527
+220,OTU220,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020398456.2130.3630
+235,OTU235,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020255495.903.2404
+85,OTU85,Bacteria,Proteobacteria,ARKICE-90,,,,JN832930.1.1413
+429,OTU429,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802835.1.1505
+1230,OTU1230,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU799228.1.1501
+325,OTU325,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,FN435231.1.1514
+148,OTU148,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FJ744908.1.1331
+103,OTU103,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GQ346891.1.1321
+276,OTU276,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800581.1.1375
+744,OTU744,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU801664.1.1461
+152,OTU152,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,JX017005.1.1403
+486,OTU486,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FJ745180.1.1374
+146,OTU146,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,EU802844.1.1359
+363,OTU363,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,JX016471.1.1438
+169,OTU169,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EF572587.1.1496
+345,OTU345,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,EF646132.1.1480
+229,OTU229,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,FJ745251.1.1308
+466,OTU466,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,JX206777.1.1466
+93,OTU93,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EF571982.1.1487
+140,OTU140,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU801193.1.1360
+324,OTU324,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU268116.1.1462
+179,OTU179,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EF574241.1.1490
+194,OTU194,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU799628.1.1361
+424,OTU424,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade OCT lineage,FJ545507.1.1456
+439,OTU439,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,EU800729.1.1446
+2610,OTU2610,Bacteria,Verrucomicrobia,OPB35 soil group,,,,FJ628330.1.1527
+278,OTU278,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU237402.1.1311
+441,OTU441,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800350.1.1365
+83,OTU83,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,L10934.1.1298
+172,OTU172,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,AM747314.1.1270
+387,OTU387,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,GU061386.1.1471
+691,OTU691,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU803092.1.1447
+25,OTU25,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,DQ009453.1.1963
+144,OTU144,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,FJ744817.1.1308
+109,OTU109,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU802529.1.1481
+299,OTU299,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU804538.1.1487
+82,OTU82,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GQ377772.1.1269
+131,OTU131,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ242620.1.1275
+117,OTU117,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU235638.1.1322
+164,OTU164,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU235451.1.1318
+419,OTU419,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,EU799106.1.1438
+127,OTU127,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664012.1.1253
+231,OTU231,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU268068.1.1427
+175,OTU175,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,FJ745032.1.1322
+168,OTU168,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EU802960.1.1455
+177,OTU177,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802971.1.1498
+217,OTU217,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GQ346815.1.1325
+291,OTU291,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,JN233157.1.1397
+399,OTU399,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Chesapeake-Delaware Bay,,EU801050.1.1438
+710,OTU710,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AACY020518560.687.2227
+1707,OTU1707,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU799850.1.1450
+423,OTU423,Bacteria,Proteobacteria,Deltaproteobacteria,Sh765B-TzT-29,,,EF573230.1.1478
+922,OTU922,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802522.1.1450
+741,OTU741,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU801445.1.1438
+1848,OTU1848,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Litoricolaceae,Litoricola,EU800188.1.1480
+1022,OTU1022,Bacteria,Bacteroidetes,Cytophagia,Order III Incertae Sedis,Family Incertae Sedis,Balneola,HM057801.1.1519
+206,OTU206,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EF572922.1.1449
+474,OTU474,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,EU805000.1.1468
+1279,OTU1279,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GU940987.1.1428
+154,OTU154,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800666.1.1372
+119,OTU119,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Chesapeake-Delaware Bay,,EU800201.1.1303
+384,OTU384,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AF098371.1.1444
+15,OTU15,Archaea,Thaumarchaeota,Marine Group I,,,,U40238.31654.33126
+1616,OTU1616,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,uncultured,FJ545589.1.1505
+37,OTU37,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,AACY020565564.130.1652
+805,OTU805,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,OM75 clade,EU799189.1.1462
+692,OTU692,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,OM75 clade,HQ671810.1.1467
+520,OTU520,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,JF747664.1.1516
+108,OTU108,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802539.1.1352
+92,OTU92,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664211.1.1287
+1094,OTU1094,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ672069.1.1486
+327,OTU327,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802790.1.1266
+950,OTU950,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,HM129439.1.1414
+77,OTU77,Archaea,Thaumarchaeota,Marine Group I,,,,JQ224996.1.1347
+56,OTU56,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,AACY020396101.1882.3388
+282,OTU282,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,GU230411.1.1482
+478,OTU478,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,uncultured,EF574734.1.1477
+866,OTU866,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,OM75 clade,EU799655.1.1454
+1078,OTU1078,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,,DQ269094.1.1345
+116,OTU116,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JN547438.1.1447
+590,OTU590,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JQ062792.1.1431
+346,OTU346,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802515.1.1370
+1119,OTU1119,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,HQ671769.1.1436
+126,OTU126,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,mitochondria,,GU940773.1.1334
+342,OTU342,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,KC003178.1.1230
+1723,OTU1723,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,Thiothrix,EU799269.1.1451
+1698,OTU1698,Bacteria,Chloroflexi,SAR202 clade,,,,HQ671908.1.1429
+548,OTU548,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,JX945359.1.1444
+236,OTU236,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,FN433348.1.1495
+524,OTU524,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,EU799585.1.1456
+852,OTU852,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospira,JN018991.1.1360
+452,OTU452,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EF575193.1.1476
+1011,OTU1011,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HM057716.1.1496
+862,OTU862,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,EF016474.1.1494
+491,OTU491,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,FJ999606.1.1357
+643,OTU643,Bacteria,Verrucomicrobia,Opitutae,Puniceicoccales,Puniceicoccaceae,marine group,EF575015.1.1520
+705,OTU705,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020393406.361.1862
+1196,OTU1196,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU799247.1.1450
+270,OTU270,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,HQ671905.1.1452
+1317,OTU1317,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU268101.1.1448
+1133,OTU1133,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,JQ062860.1.1445
+157,OTU157,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY663941.1.1275
+2033,OTU2033,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Candidatus Branchiomonas,JQ062722.1.1500
+530,OTU530,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EF573781.1.1448
+244,OTU244,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802272.1.1376
+237,OTU237,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664000.1.1252
+178,OTU178,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EF572892.1.1439
+1025,OTU1025,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU795184.7277.8739
+1999,OTU1999,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Litoricolaceae,Litoricola,EU799222.1.1502
+1408,OTU1408,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,OM60(NOR5) clade,GU474844.39782.41307
+653,OTU653,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802562.1.1451
+52,OTU52,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU941067.1.1343
+122,OTU122,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY664073.1.1228
+3265,OTU3265,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Cohaesibacter,AACY020536637.961.2423
+1029,OTU1029,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,,,FJ545538.1.1526
+201,OTU201,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 3,,DQ009161.1.1974
+149,OTU149,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802480.1.1262
+379,OTU379,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,KC003238.1.1354
+415,OTU415,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802678.1.1443
+251,OTU251,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802279.1.1371
+480,OTU480,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,AACY020556376.977.2486
+312,OTU312,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,FJ744956.1.1371
+243,OTU243,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU805212.1.1439
+230,OTU230,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802794.1.1441
+1073,OTU1073,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,AACY020259437.2024.3522
+228,OTU228,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803007.1.1326
+390,OTU390,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803152.1.1452
+218,OTU218,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,AACY020431964.3244.4753
+1314,OTU1314,Bacteria,Verrucomicrobia,Opitutae,Puniceicoccales,Puniceicoccaceae,Coraliomargarita,EU805065.1.1518
+344,OTU344,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,GQ349357.1.1386
+1302,OTU1302,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,EU800869.1.1427
+479,OTU479,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,FJ745176.1.1372
+720,OTU720,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,GU940989.1.1358
+204,OTU204,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802684.1.1366
+91,OTU91,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EF574990.1.1439
+81,OTU81,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU803052.1.1425
+111,OTU111,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JX945354.1.1385
+89,OTU89,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU802874.1.1450
+163,OTU163,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU804864.1.1440
+181,OTU181,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802905.1.1437
+173,OTU173,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802700.1.1447
+26,OTU26,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020562322.3851.5364
+110,OTU110,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU237319.1.1311
+189,OTU189,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU803160.1.1450
+36,OTU36,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EF572710.1.1498
+362,OTU362,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,FQ032825.6410.7925
+158,OTU158,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802391.1.1436
+166,OTU166,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU802460.1.1406
+187,OTU187,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802840.1.1440
+330,OTU330,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY663890.1.1225
+332,OTU332,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU803123.1.1448
+198,OTU198,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EF574440.1.1446
+239,OTU239,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802915.1.1434
+382,OTU382,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,EF574651.1.1468
+274,OTU274,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU803176.1.1376
+328,OTU328,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Marinicella,EU010164.1.1471
+128,OTU128,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AACY020207233.1273.2814
+315,OTU315,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664136.1.1218
+641,OTU641,Bacteria,Chloroflexi,SAR202 clade,,,,AY534099.1.1476
+74,OTU74,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AB193978.1.1441
+171,OTU171,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,DQ156348.18592.20063
+465,OTU465,Archaea,Thaumarchaeota,Marine Group I,,,,U71109.1.1350
+124,OTU124,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,EU686618.3359.4826
+1295,OTU1295,Bacteria,Chloroflexi,SAR202 clade,,,,JN166305.1.1465
+1140,OTU1140,Bacteria,Gemmatimonadetes,Gemmatimonadetes,BD2-11 terrestrial group,,,JN166233.1.1526
+46,OTU46,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,EU804641.1.1462
+2044,OTU2044,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospira,JN166309.1.1461
+316,OTU316,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,GU061453.1.1514
+1108,OTU1108,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,DQ374241.1.1077
+321,OTU321,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,DQ156480.1.1271
+644,OTU644,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,HQ529817.1.915
+1511,OTU1511,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,OM182 clade,,JN166254.1.1500
+295,OTU295,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,DQ009458.1.2068
+450,OTU450,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664189.1.1285
+782,OTU782,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,HQ529849.1.917
+1892,OTU1892,Bacteria,Chloroflexi,JG30-KF-CM66,,,,DQ300613.1.1323
+1565,OTU1565,Bacteria,Chloroflexi,SAR202 clade,,,,AY534096.1.1494
+2295,OTU2295,Bacteria,Chloroflexi,SAR202 clade,,,,JN233131.1.1427
+2139,OTU2139,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,KC253366.1.1449
+176,OTU176,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,EU686616.36653.38121
+602,OTU602,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,,,AY907754.1.1353
+1910,OTU1910,Bacteria,Chloroflexi,SAR202 clade,,,,JN166337.1.1461
+694,OTU694,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY726846.1.1215
+1387,OTU1387,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,GU305788.1.1476
+1772,OTU1772,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,uncultured,AY856363.1.1409
+1376,OTU1376,Bacteria,Chloroflexi,SAR202 clade,,,,GQ337281.1.1459
+313,OTU313,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,EF573463.1.1480
+216,OTU216,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,JQ062856.1.1462
+674,OTU674,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664178.1.1215
+215,OTU215,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EU802603.1.1489
+623,OTU623,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AY907769.1.1521
+267,OTU267,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,GU145420.1.1491
+581,OTU581,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,OM75 clade,EF572785.1.1464
+141,OTU141,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,U65908.1.1509
+104,OTU104,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802543.1.1499
+69,OTU69,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU802707.1.1478
+191,OTU191,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,GU061415.1.1485
+145,OTU145,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU800402.1.1485
+96,OTU96,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU119298.1.1407
+160,OTU160,Bacteria,Cyanobacteria,Chloroplast,,,,EF574484.1.1444
+99,OTU99,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EF571973.1.1459
+269,OTU269,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY663999.1.1259
+318,OTU318,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU061586.1.1437
+284,OTU284,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,DQ156396.1.1264
+113,OTU113,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU805254.1.1438
+183,OTU183,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU802833.1.1487
+392,OTU392,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU941055.1.1253
+703,OTU703,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,EU237332.1.1322
+771,OTU771,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU119438.1.1393
+214,OTU214,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802437.1.1387
+699,OTU699,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JQ347444.1.1436
+261,OTU261,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Marinicella,AACY020371335.89.1595
+598,OTU598,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY663936.1.1224
+876,OTU876,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,FJ999604.1.1348
+153,OTU153,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EF574119.1.1500
+490,OTU490,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GQ377778.1.1232
+364,OTU364,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EF574859.1.1503
+569,OTU569,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY663935.1.1244
+340,OTU340,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EF573115.1.1498
+112,OTU112,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802893.1.1441
+895,OTU895,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664059.1.1278
+210,OTU210,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,JTB255 marine benthic group,,AACY020075636.150.1670
+185,OTU185,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AACY020555882.2572.4023
+646,OTU646,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EF572962.1.1462
+120,OTU120,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,uncultured,EU237468.1.1312
+874,OTU874,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,GQ377828.1.1263
+369,OTU369,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802637.1.1438
+314,OTU314,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,GQ349960.1.1356
+279,OTU279,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AACY020564058.27.1569
+464,OTU464,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,KC001780.1.1314
+57,OTU57,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY664104.1.1218
+879,OTU879,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,DQ156481.1.1248
+376,OTU376,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,EU686604.16726.18273
+800,OTU800,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,DQ156443.1.1290
+1249,OTU1249,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,AEUE01000008.155488.156954
+1341,OTU1341,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,EU791574.1.914
+702,OTU702,Bacteria,Chloroflexi,SAR202 clade,,,,HQ674232.1.1463
+531,OTU531,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,AACY023939069.20.1514
+1068,OTU1068,Archaea,Thaumarchaeota,Marine Group I,,,,JF268338.1.1346
+343,OTU343,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU061789.1.1436
+303,OTU303,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,AY726885.1.1230
+196,OTU196,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672720.1.1447
+90,OTU90,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,GQ337263.1.1438
+618,OTU618,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY726833.1.1216
+684,OTU684,Bacteria,Proteobacteria,AEGEAN-245,,,,AACY020430088.197.1720
+903,OTU903,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,HQ672383.1.1501
+2724,OTU2724,Archaea,Thaumarchaeota,Marine Group I,,,,HQ529887.1.906
+106,OTU106,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY726930.1.1212
+885,OTU885,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,HM798599.1.1491
+1206,OTU1206,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bacteriovoracaceae,uncultured,JN233132.1.1477
+1308,OTU1308,Archaea,Thaumarchaeota,Marine Group I,,,,HQ267240.1.915
+660,OTU660,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,AACY020403290.735.2190
+488,OTU488,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,JQ678385.1.1530
+1104,OTU1104,Archaea,Thaumarchaeota,Marine Group I,,,,JX870189.1.913
+724,OTU724,Bacteria,Chloroflexi,SAR202 clade,,,,AY534097.1.1494
+298,OTU298,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AJXC01007386.664.1844
+1122,OTU1122,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,GQ377812.1.1253
+613,OTU613,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ674511.1.1435
+311,OTU311,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ673514.1.1438
+663,OTU663,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,JQ678403.1.1505
+2518,OTU2518,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oceanobacter,GQ377804.1.1273
+283,OTU283,Bacteria,Cyanobacteria,Chloroplast,,,,JN166197.1.1454
+370,OTU370,Bacteria,Cyanobacteria,Chloroplast,,,,AY663945.1.1231
+62,OTU62,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803081.1.1252
+605,OTU605,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EF571965.1.1491
+788,OTU788,Bacteria,Cyanobacteria,Chloroplast,,,,CR954199.69730.71299
+118,OTU118,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU940748.1.1341
+123,OTU123,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802984.1.1440
+241,OTU241,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802368.1.1440
+1002,OTU1002,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EU802445.1.1460
+1151,OTU1151,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU803136.1.1458
+386,OTU386,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EF574040.1.1487
+232,OTU232,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,EF572586.1.1452
+102,OTU102,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU234735.1.1317
+227,OTU227,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU802894.1.1450
+242,OTU242,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AACY020545456.443.1983
+538,OTU538,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU804188.1.1426
+591,OTU591,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,GU061861.1.1423
+833,OTU833,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,FJ744785.1.1295
+135,OTU135,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674365.1.1523
+48,OTU48,Bacteria,Planctomycetes,Planctomycetacia,Brocadiales,Brocadiaceae,Candidatus Scalindua,EU795287.4965.6516
+167,OTU167,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AB193918.1.1524
+132,OTU132,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GU145455.1.1523
+410,OTU410,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673270.1.1522
+129,OTU129,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,AY033322.1.1446
+521,OTU521,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,HQ673566.1.1504
+615,OTU615,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,FJ615178.1.1439
+877,OTU877,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,AY726847.1.1222
+246,OTU246,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672443.1.1436
+900,OTU900,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EU795186.1137.2679
+592,OTU592,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673064.1.1522
+1027,OTU1027,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AB610896.1.1479
+225,OTU225,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AY907781.1.1504
+627,OTU627,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,JN874316.1.1443
+971,OTU971,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,HQ671844.1.1443
+860,OTU860,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY664005.1.1223
+647,OTU647,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,FJ999613.1.1344
+288,OTU288,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EF572101.1.1517
+1423,OTU1423,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Deep Sea Hydrothermal Vent Gp 6(DHVEG-6),,AACY020254990.1.1246
+570,OTU570,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,JQ062702.1.1447
+388,OTU388,Bacteria,Verrucomicrobia,Spartobacteria,Chthoniobacterales,FukuN18 freshwater group,,HQ673751.1.1453
+603,OTU603,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,AY726929.1.1212
+374,OTU374,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ672799.1.1447
+952,OTU952,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,DQ009478.1.1823
+1045,OTU1045,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,AY726933.1.1255
+1147,OTU1147,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,JX879028.1.1406
+213,OTU213,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672889.1.1533
+676,OTU676,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,AACY020288370.770.2267
+959,OTU959,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AJ133625.1.1270
+1150,OTU1150,Bacteria,Cyanobacteria,Chloroplast,,,,EU259787.1.1453
+843,OTU843,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,GU061506.1.1478
+418,OTU418,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,EF572151.1.1467
+437,OTU437,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673078.1.1511
+304,OTU304,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,EF573369.1.1458
+557,OTU557,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU805199.1.1426
+1324,OTU1324,Bacteria,Cyanobacteria,Chloroplast,,,,FJ826247.1.1220
+147,OTU147,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,EF572384.1.1486
+426,OTU426,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU802768.1.1494
+354,OTU354,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU802374.1.1489
+162,OTU162,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU940897.1.1343
+539,OTU539,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,EU237459.1.1302
+1508,OTU1508,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Thalassospira,DQ396091.1.1479
+847,OTU847,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020553861.2031.3562
+338,OTU338,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,EF572745.1.1469
+256,OTU256,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802400.1.1495
+161,OTU161,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802942.1.1496
+297,OTU297,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,EU802612.1.1434
+105,OTU105,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,AACY020555729.127.1634
+107,OTU107,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,EF573001.1.1489
+101,OTU101,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU803067.1.1257
+255,OTU255,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,EU802718.1.1501
+528,OTU528,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AF406530.1.1447
+1088,OTU1088,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,DQ396017.1.1548
+336,OTU336,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,EU802565.1.1482
+1269,OTU1269,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,JTB255 marine benthic group,,EU799557.1.1286
+445,OTU445,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Marinicella,HQ672748.1.1471
+462,OTU462,Bacteria,Cyanobacteria,Chloroplast,,,,HQ242617.1.1454
+1135,OTU1135,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,HQ671780.1.1479
+412,OTU412,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802319.1.1452
+459,OTU459,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802366.1.1420
+501,OTU501,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,HQ672724.1.1498
+559,OTU559,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,AACY020276549.377.1886
+180,OTU180,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802980.1.1373
+391,OTU391,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EF573375.1.1449
+545,OTU545,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,AF382130.1.1484
+675,OTU675,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,AY700630.1.1436
+589,OTU589,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EF572059.1.1446
+507,OTU507,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,EU795175.18550.20063
+711,OTU711,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS2b marine group,KC002071.1.1361
+226,OTU226,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,AACY020555764.489.1966
+300,OTU300,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EF573689.1.1488
+1383,OTU1383,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AM990657.1.1462
+151,OTU151,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY726843.1.1232
+3000,OTU3000,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,GQ274096.1.1523
+66,OTU66,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY726967.1.1236
+143,OTU143,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,JN563820.1.1535
+257,OTU257,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,GU451676.1.1235
+352,OTU352,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY726942.1.1230
+2372,OTU2372,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,CP001103.480922.482242
+1032,OTU1032,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY344429.1.1480
+394,OTU394,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF061412.1.1442
+1736,OTU1736,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EU188189.1.1494
+755,OTU755,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF574195.1.1480
+845,OTU845,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,FJ497554.1.1456
+3398,OTU3398,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,GU108528.1.1398
+606,OTU606,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,GQ377798.1.1238
+1830,OTU1830,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AF114496.1.1495
+281,OTU281,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU235719.1.1348
+1815,OTU1815,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,DQ117432.1.1510
+516,OTU516,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,JQ860235.1.1434
+1285,OTU1285,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,HM057630.1.1500
+361,OTU361,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800195.1.1400
+482,OTU482,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF574604.1.1446
+869,OTU869,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EU935239.1.1480
+999,OTU999,Bacteria,Proteobacteria,Elev-16S-509,,,,EF575095.1.1460
+936,OTU936,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bacteriovoracaceae,,FJ745211.1.1387
+983,OTU983,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY664172.1.1229
+700,OTU700,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY727010.1.1237
+892,OTU892,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,DQ300608.1.1456
+815,OTU815,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,JX537832.1.1385
+583,OTU583,Bacteria,Cyanobacteria,Chloroplast,,,,EF574673.1.1448
+745,OTU745,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,FJ745057.1.1366
+4145,OTU4145,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,JN874273.1.1457
+857,OTU857,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Methylophaga,FJ497517.1.1437
+949,OTU949,Bacteria,Verrucomicrobia,Opitutae,Puniceicoccales,Puniceicoccaceae,marine group,FJ745172.1.1390
+769,OTU769,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AACY020428427.340.1780
+758,OTU758,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,EU800540.1.1371
+522,OTU522,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU801104.1.1437
+1696,OTU1696,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AJ240914.1.1494
+3149,OTU3149,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,FJ826163.1.1477
+756,OTU756,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ671967.1.1514
+1890,OTU1890,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EF646149.1.1472
+259,OTU259,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,AACY020490277.719.2228
+254,OTU254,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AACY020563509.792.2305
+174,OTU174,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY664015.1.1220
+536,OTU536,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,NS7 marine group,DQ395552.1.1518
+1922,OTU1922,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,HM117554.1.1400
+434,OTU434,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EU795215.10977.12472
+667,OTU667,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU799550.1.1480
+1076,OTU1076,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,EU799855.1.1453
+506,OTU506,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,GQ348141.1.1375
+707,OTU707,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FJ744819.1.1371
+365,OTU365,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,EU800190.1.1369
+651,OTU651,Bacteria,Proteobacteria,Alphaproteobacteria,OCS116 clade,,,EU919854.1.1457
+219,OTU219,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,EU800186.1.1306
+1319,OTU1319,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,HQ672169.1.1454
+594,OTU594,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800040.1.1438
+407,OTU407,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU234909.1.1324
+617,OTU617,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU799834.1.1421
+907,OTU907,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,FN433328.1.1525
+1763,OTU1763,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,GQ346902.1.1366
+2771,OTU2771,Archaea,Thaumarchaeota,Marine Group I,Order Incertae Sedis,Family Incertae Sedis,Candidatus Nitrosopumilus,JQ225391.1.1340
+1429,OTU1429,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU394556.1.1501
+1154,OTU1154,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,JQ712062.1.1490
+849,OTU849,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,AM747332.1.1244
+795,OTU795,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,EF574980.1.1467
+868,OTU868,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,EU802820.1.1447
+752,OTU752,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,EU799623.1.1467
+1822,OTU1822,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Ponticaulis,JN233106.1.1375
+260,OTU260,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,EF574657.1.1483
+319,OTU319,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,EU802945.1.1378
+1762,OTU1762,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospira,FJ826317.1.1453
+2056,OTU2056,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,JF421214.1.1484
+296,OTU296,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,GQ337163.1.1448
+155,OTU155,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,JN547476.1.1428
+248,OTU248,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802803.1.1440
+337,OTU337,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802968.1.1439
+571,OTU571,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,HQ673415.1.1504
+301,OTU301,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EF572097.1.1449
+2470,OTU2470,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospira,JX391777.1.1460
+471,OTU471,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672328.1.1435
+192,OTU192,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY726917.1.1225
+3470,OTU3470,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,HQ696463.1.1494
+511,OTU511,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EF572756.1.1449
+489,OTU489,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR684345.1.1446
+534,OTU534,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,EU802872.1.1478
+631,OTU631,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF061430.1.1450
+808,OTU808,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,GQ347099.1.1399
+422,OTU422,Archaea,Thaumarchaeota,Marine Group I,,,,AB193967.1.1440
+1083,OTU1083,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ348168.1.1389
+993,OTU993,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS2b marine group,DQ009434.1.2078
+527,OTU527,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ163172.1.1373
+290,OTU290,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,GQ337098.1.1445
+737,OTU737,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,FJ980777.1.1485
+356,OTU356,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673841.1.1523
+380,OTU380,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ673916.1.1435
+1040,OTU1040,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,GQ347371.1.1373
+1072,OTU1072,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,FJ615186.1.1437
+405,OTU405,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673904.1.1436
+966,OTU966,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,EU333882.1.1464
+891,OTU891,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,EU686612.24178.25713
+1546,OTU1546,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,GU145517.1.1480
+1079,OTU1079,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,EU695223.1.1461
+850,OTU850,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,JQ678490.1.1491
+957,OTU957,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HM799123.1.1429
+512,OTU512,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802572.1.1439
+1007,OTU1007,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,AB125366.1.1479
+463,OTU463,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ337204.1.1522
+551,OTU551,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ375271.1.1521
+767,OTU767,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672457.1.1520
+1112,OTU1112,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,GQ351147.1.1502
+310,OTU310,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,EU686628.16674.18140
+786,OTU786,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,GQ921469.1.1495
+977,OTU977,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU799540.1.1504
+472,OTU472,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ674623.1.1540
+940,OTU940,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,JQ678431.1.1528
+836,OTU836,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673734.1.1524
+1008,OTU1008,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674572.1.1522
+713,OTU713,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673390.1.1528
+200,OTU200,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ674246.1.1475
+740,OTU740,Bacteria,Chloroflexi,SAR202 clade,,,,HQ672793.1.1475
+1452,OTU1452,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,DQ396346.1.1452
+734,OTU734,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673846.1.1521
+918,OTU918,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,JQ678468.1.1495
+1169,OTU1169,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Leptospirillum,FJ745009.1.1372
+355,OTU355,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ163255.1.1374
+1159,OTU1159,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,GQ346427.1.1433
+574,OTU574,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673163.1.1436
+806,OTU806,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673908.1.1463
+33,OTU33,Archaea,Thaumarchaeota,Marine Group I,,,,EU686623.12708.14181
+2082,OTU2082,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,DQ396294.1.1513
+1589,OTU1589,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,AY726848.1.1212
+564,OTU564,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221123.1.914
+619,OTU619,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SUP05 cluster,,GQ350128.1.1378
+552,OTU552,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674579.1.1521
+642,OTU642,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672861.1.1522
+271,OTU271,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU803064.1.1484
+294,OTU294,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,EF574626.1.1492
+899,OTU899,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Fluviicola,AACY020544257.531.2038
+393,OTU393,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802670.1.1499
+287,OTU287,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,EF574788.1.1492
+810,OTU810,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,AACY020329935.165.1672
+263,OTU263,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU803169.1.1499
+515,OTU515,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,EF573194.1.1484
+349,OTU349,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EF572123.1.1446
+238,OTU238,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,KC002117.1.1316
+908,OTU908,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,NS7 marine group,EF574837.1.1497
+350,OTU350,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802831.1.1482
+497,OTU497,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,EF573122.1.1485
+746,OTU746,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,FQ032826.22493.24014
+265,OTU265,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EU802302.1.1503
+360,OTU360,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802901.1.1499
+188,OTU188,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802434.1.1365
+205,OTU205,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU061948.1.1441
+208,OTU208,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802983.1.1388
+503,OTU503,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,FJ745259.1.1364
+565,OTU565,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,FJ745081.1.1358
+165,OTU165,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU234848.1.1327
+716,OTU716,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,EF572198.1.1478
+726,OTU726,Bacteria,Proteobacteria,Betaproteobacteria,Hydrogenophilales,Hydrogenophilaceae,Thiobacillus,EU800621.1.1499
+98,OTU98,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671891.1.1439
+58,OTU58,Archaea,Thaumarchaeota,Marine Group I,,,,GU234305.1.1334
+87,OTU87,Archaea,Thaumarchaeota,Marine Group I,,,,AB193965.1.1440
+121,OTU121,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU686640.25381.26914
+142,OTU142,Archaea,Thaumarchaeota,Marine Group I,,,,AB461943.1.1310
+222,OTU222,Archaea,Thaumarchaeota,Marine Group I,,,,AB194003.1.1440
+193,OTU193,Archaea,Thaumarchaeota,Marine Group I,,,,JQ220558.1.915
+190,OTU190,Archaea,Thaumarchaeota,Marine Group I,,,,AJXC01000443.5756.7214
+264,OTU264,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221732.1.914
+247,OTU247,Archaea,Thaumarchaeota,Marine Group I,,,,FJ150822.1.1353
+212,OTU212,Archaea,Thaumarchaeota,Marine Group I,,,,FJ150819.1.1297
+234,OTU234,Archaea,Thaumarchaeota,Marine Group I,,,,FJ150824.1.1353
+211,OTU211,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,EU686643.5839.7313
+541,OTU541,Archaea,Thaumarchaeota,Marine Group I,,,,JQ222055.1.909
+543,OTU543,Archaea,Thaumarchaeota,Marine Group I,,,,JQ220924.1.916
+635,OTU635,Archaea,Thaumarchaeota,Marine Group I,,,,AB193958.1.1441
+585,OTU585,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221717.1.914
+718,OTU718,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,HQ672840.1.1446
+333,OTU333,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Leeuwenhoekiella,AANC01000011.208.1734
+732,OTU732,Archaea,Thaumarchaeota,Marine Group I,,,,JQ222467.1.914
+804,OTU804,Archaea,Thaumarchaeota,Marine Group I,,,,JQ222294.1.913
+560,OTU560,Archaea,Thaumarchaeota,Marine Group I,,,,AB193999.1.1440
+553,OTU553,Archaea,Thaumarchaeota,Marine Group I,,,,EU686615.30301.31771
+526,OTU526,Archaea,Thaumarchaeota,Marine Group I,,,,GU234599.1.1319
+447,OTU447,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672746.1.1512
+926,OTU926,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,GQ351233.1.1485
+989,OTU989,Archaea,Thaumarchaeota,Marine Group I,,,,EF597695.1.942
+884,OTU884,Archaea,Thaumarchaeota,Marine Group I,,,,AY627439.1.1193
+929,OTU929,Archaea,Thaumarchaeota,Marine Group I,,,,HM103738.1.947
+1168,OTU1168,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,HQ673682.1.1487
+628,OTU628,Archaea,Thaumarchaeota,Marine Group I,,,,FJ150820.1.1353
+372,OTU372,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674329.1.1524
+956,OTU956,Archaea,Thaumarchaeota,Marine Group I,,,,AB193988.1.1441
+596,OTU596,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ375276.1.1509
+696,OTU696,Archaea,Thaumarchaeota,Marine Group I,,,,AF121987.1.935
+787,OTU787,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ673808.1.1478
+1208,OTU1208,Archaea,Thaumarchaeota,Marine Group I,,,,JQ220648.1.914
+750,OTU750,Archaea,Thaumarchaeota,Marine Group I,,,,FJ150810.1.1353
+1019,OTU1019,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221251.1.914
+1209,OTU1209,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,AY726938.1.1253
+1617,OTU1617,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ672684.1.1504
+1172,OTU1172,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,HQ673602.1.1482
+986,OTU986,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ674102.1.1479
+1462,OTU1462,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,HQ672823.1.1517
+1082,OTU1082,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221803.1.914
+736,OTU736,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,GU940873.1.1401
+266,OTU266,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EU802606.1.1200
+729,OTU729,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Roseibacillus,GU062019.1.1504
+401,OTU401,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,JQ062671.1.1498
+438,OTU438,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Marinicella,EF572504.1.1492
+981,OTU981,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,Idiomarina,EU802936.1.1504
+1515,OTU1515,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,AM945668.1.1328
+1652,OTU1652,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,FJ444989.1.1450
+1096,OTU1096,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,Salinisphaera,AB735546.1.1462
+757,OTU757,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF061436.1.1445
+798,OTU798,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,GQ377787.1.1230
+348,OTU348,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,JN233016.1.1438
+514,OTU514,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Zunongwangia,CP001650.759240.760762
+1043,OTU1043,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY663974.1.1239
+1273,OTU1273,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF061418.1.1459
+494,OTU494,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ674163.1.1495
+1282,OTU1282,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF061414.1.1410
+1015,OTU1015,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,EU795202.6061.7596
+704,OTU704,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,,,DQ513029.1.1499
+690,OTU690,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672405.1.1502
+2792,OTU2792,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,GU001892.1.1497
+1039,OTU1039,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,JQ218646.1.1493
+398,OTU398,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673461.1.1475
+1214,OTU1214,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673284.1.1501
+458,OTU458,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673606.1.1474
+2186,OTU2186,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,Idiomarina,AJ440215.1.1556
+1086,OTU1086,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,AY628694.1.1536
+577,OTU577,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF574718.1.1497
+1111,OTU1111,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Salinimonas,AM941171.1.1407
+828,OTU828,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,HM057641.1.1455
+378,OTU378,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,,,EF572288.1.1498
+341,OTU341,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802924.1.1499
+842,OTU842,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,FQ032823.12062.13572
+1573,OTU1573,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bacteriovoracaceae,uncultured,EF572378.1.1516
+910,OTU910,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,DEV007,,DQ395548.1.1542
+305,OTU305,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,AACY020552977.734.2233
+954,OTU954,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AACY020147130.655.2082
+317,OTU317,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672023.1.1447
+1125,OTU1125,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AACY020187844.576.1995
+614,OTU614,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ226349.1.1312
+680,OTU680,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,GQ337287.1.1463
+432,OTU432,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673228.1.1451
+451,OTU451,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673882.1.1474
+495,OTU495,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803003.1.1436
+1173,OTU1173,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ672488.1.1492
+760,OTU760,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673662.1.1479
+1091,OTU1091,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673649.1.1502
+428,OTU428,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672002.1.1448
+814,OTU814,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673975.1.1471
+156,OTU156,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802532.1.1252
+607,OTU607,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674105.1.1523
+1445,OTU1445,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,JN166345.1.1477
+796,OTU796,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674035.1.1522
+783,OTU783,Bacteria,Gemmatimonadetes,Gemmatimonadetes,BD2-11 terrestrial group,,,HQ674222.1.1525
+955,OTU955,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ351150.1.1514
+765,OTU765,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,HQ673627.1.1507
+801,OTU801,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,GU553801.1.1400
+944,OTU944,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673691.1.1522
+252,OTU252,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EU802656.1.1455
+1287,OTU1287,Bacteria,Chloroflexi,SAR202 clade,,,,AY534100.1.1466
+366,OTU366,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,GU940994.1.1354
+1253,OTU1253,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,EU880515.1.1503
+416,OTU416,Bacteria,Chloroflexi,SAR202 clade,,,,HQ672805.1.1482
+1501,OTU1501,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,DQ396134.1.1533
+632,OTU632,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,DQ396007.1.1499
+998,OTU998,Archaea,Thaumarchaeota,Marine Group I,,,,AB193984.1.1441
+753,OTU753,Archaea,Thaumarchaeota,Marine Group I,,,,JQ220653.1.915
+358,OTU358,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,S25-593,,AB193901.1.1435
+1554,OTU1554,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,uncultured,DQ396014.1.1476
+827,OTU827,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ674037.1.1480
+582,OTU582,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,EU686588.13514.15011
+1145,OTU1145,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Mesonia,DQ367409.1.1434
+743,OTU743,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673563.1.1480
+719,OTU719,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672912.1.1480
+2703,OTU2703,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Gramella,GU291860.1.1385
+1361,OTU1361,Bacteria,Chloroflexi,SAR202 clade,,,,GQ337234.1.1475
+797,OTU797,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ673710.1.1445
+832,OTU832,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673107.1.1420
+1773,OTU1773,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Zunongwangia,DQ396290.1.1472
+685,OTU685,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672544.1.1260
+723,OTU723,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672469.1.1437
+856,OTU856,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ674197.1.1511
+974,OTU974,Archaea,Thaumarchaeota,Marine Group I,,,,FJ002876.1.1276
+661,OTU661,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,AM778450.1.1434
+1184,OTU1184,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,AF468351.1.1424
+1188,OTU1188,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,DQ396094.1.1483
+460,OTU460,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AB193916.1.1438
+1118,OTU1118,Bacteria,Chloroflexi,SAR202 clade,,,,JQ678410.1.1465
+550,OTU550,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672778.1.1523
+1212,OTU1212,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221386.1.913
+546,OTU546,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ673764.1.1437
+2245,OTU2245,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,AY258118.1.1416
+250,OTU250,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU802534.1.1442
+253,OTU253,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU802299.1.1228
+272,OTU272,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,DQ009253.1.1978
+2516,OTU2516,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AM944022.1.1520
+2026,OTU2026,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,GU361122.1.1487
+1381,OTU1381,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,AM180749.1.1518
+1581,OTU1581,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,AY188938.1.1501
+1567,OTU1567,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY726966.1.1272
+1505,OTU1505,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF151229.1.1453
+3256,OTU3256,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY723742.1.1419
+1737,OTU1737,Bacteria,Cyanobacteria,ML635J-21,,,,FJ155017.1.1491
+2004,OTU2004,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,GU061848.1.1488
+2283,OTU2283,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,FJ457286.1.1379
+578,OTU578,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY664277.1.1248
+2521,OTU2521,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ497422.1.1440
+377,OTU377,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,EU802911.1.1434
+2227,OTU2227,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,GU584161.1.1499
+2217,OTU2217,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF199931.1.1473
+1921,OTU1921,Bacteria,Chloroflexi,JG30-KF-CM66,,,,GQ346947.1.1325
+404,OTU404,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU805172.1.1447
+1246,OTU1246,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,HQ673742.1.1447
+861,OTU861,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,U75254.1.1466
+2187,OTU2187,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ494890.1.1458
+1312,OTU1312,Bacteria,Gemmatimonadetes,Gemmatimonadetes,BD2-11 terrestrial group,,,HQ673034.1.1523
+1018,OTU1018,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,MNG7,,HQ672389.1.1475
+1304,OTU1304,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ674189.1.1476
+1420,OTU1420,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,uncultured,HQ673550.1.1502
+1931,OTU1931,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,JQ800676.1.1461
+2705,OTU2705,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,JQ661177.1.2718
+1167,OTU1167,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,uncultured,DQ396156.1.1469
+1248,OTU1248,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,HQ672275.1.1501
+331,OTU331,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ673941.1.1251
+911,OTU911,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672972.1.1520
+1061,OTU1061,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ375274.1.1522
+784,OTU784,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ351140.1.1516
+595,OTU595,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672606.1.1437
+963,OTU963,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673598.1.1478
+431,OTU431,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,HQ672813.1.1446
+1021,OTU1021,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672971.1.1481
+3252,OTU3252,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Stakelama,EU581829.1.1412
+1952,OTU1952,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,AJ294340.1.1296
+920,OTU920,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672646.1.1481
+1174,OTU1174,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673559.1.1477
+1530,OTU1530,Archaea,Thaumarchaeota,Marine Group I,,,,AB193960.1.1440
+1471,OTU1471,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673891.1.1502
+1200,OTU1200,Archaea,Thaumarchaeota,Marine Group I,,,,JN563792.1.917
+1388,OTU1388,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673022.1.1510
+780,OTU780,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,JX879031.1.1407
+1768,OTU1768,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,uncultured,DQ396208.1.1454
+502,OTU502,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672635.1.1436
+725,OTU725,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EF572866.1.1525
+580,OTU580,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AACY020553637.768.2309
+1012,OTU1012,Bacteria,Proteobacteria,Gammaproteobacteria,34P16,,,FJ745229.1.1369
+2230,OTU2230,Bacteria,Proteobacteria,Gammaproteobacteria,34P16,,,GU451626.1.1246
+985,OTU985,Bacteria,Chloroflexi,SAR202 clade,,,,AY704387.1.1461
+71,OTU71,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672001.1.1446
+2580,OTU2580,Bacteria,Cyanobacteria,Chloroplast,,,,FN563089.1.1468
+203,OTU203,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671756.1.1446
+586,OTU586,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672070.1.1444
+612,OTU612,Bacteria,Cyanobacteria,Chloroplast,,,,EF574674.1.1443
+223,OTU223,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671819.1.1446
+258,OTU258,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671921.1.1443
+978,OTU978,Bacteria,Cyanobacteria,Chloroplast,,,,HM057721.1.1451
+1109,OTU1109,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,HQ529790.1.904
+1077,OTU1077,Bacteria,Cyanobacteria,Chloroplast,,,,AB199888.1.1217
+425,OTU425,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,JN166247.1.1530
+567,OTU567,Bacteria,Cyanobacteria,Chloroplast,,,,EU592338.1.1399
+3716,OTU3716,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,AF418172.1.1547
+1162,OTU1162,Bacteria,Cyanobacteria,Chloroplast,,,,EU394562.1.1447
+872,OTU872,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ222785.1.1347
+519,OTU519,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ222667.1.1344
+1325,OTU1325,Bacteria,Cyanobacteria,Chloroplast,,,,HM565910.2287.3749
+859,OTU859,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671790.1.1439
+368,OTU368,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Arenicella,DQ906760.1.1497
+894,OTU894,Bacteria,Cyanobacteria,Chloroplast,,,,GU061833.1.1462
+453,OTU453,Bacteria,Cyanobacteria,Chloroplast,,,,EF574684.1.1421
+568,OTU568,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,FJ826248.1.1455
+306,OTU306,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802819.1.1500
+883,OTU883,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,NS10 marine group,HQ671808.1.1486
+1897,OTU1897,Archaea,Thaumarchaeota,Marine Benthic Group A,,,,AB193994.1.1472
+1856,OTU1856,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY664182.1.1269
+1626,OTU1626,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY664202.1.1263
+2544,OTU2544,Bacteria,Chloroflexi,SAR202 clade,,,,GQ337123.1.1475
+1898,OTU1898,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Aestuariibacter,HQ397070.1.1496
+1760,OTU1760,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Aestuariibacter,FJ497496.1.1440
+1406,OTU1406,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,FM992724.1.1457
+597,OTU597,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673169.1.1436
+2465,OTU2465,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,GQ377836.1.1279
+3045,OTU3045,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,ST-12K33,,FJ792262.1.1364
+1988,OTU1988,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,AF288157.1.1529
+728,OTU728,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU237342.1.1352
+887,OTU887,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,EF573011.1.1496
+508,OTU508,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802903.1.1488
+904,OTU904,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,JQ678491.1.1486
+819,OTU819,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,JX016602.1.1495
+1879,OTU1879,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,GQ348644.1.1376
+558,OTU558,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ222710.1.1336
+681,OTU681,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AACY020281370.39.1481
+992,OTU992,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,HQ674271.1.1518
+1216,OTU1216,Bacteria,Chloroflexi,SAR202 clade,,,,GQ337221.1.1465
+1688,OTU1688,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,JN166361.1.1514
+762,OTU762,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ673946.1.1447
+829,OTU829,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ674255.1.1433
+1120,OTU1120,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,AF355042.1.1473
+1377,OTU1377,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,HQ672454.1.1516
+958,OTU958,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,AEGEAN-169 marine group,JX878927.1.1404
+967,OTU967,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673861.1.1478
+1097,OTU1097,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672343.1.1480
+1243,OTU1243,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,AY726954.1.1223
+626,OTU626,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ673984.1.1259
+645,OTU645,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672584.1.1445
+960,OTU960,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ674116.1.1437
+1095,OTU1095,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672591.1.1477
+170,OTU170,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oceanobacter,AF382127.1.1491
+1194,OTU1194,Archaea,Thaumarchaeota,Marine Group I,,,,FJ150834.1.1353
+1474,OTU1474,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY664247.1.1301
+1284,OTU1284,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,HQ672643.1.1480
+406,OTU406,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,AACY020551516.3485.4953
+841,OTU841,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,FR685392.1.1449
+1677,OTU1677,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,OCS155 marine group,,EU570897.1.1483
+1189,OTU1189,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,EU799068.1.1506
+1724,OTU1724,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU799605.1.1374
+1081,OTU1081,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,HQ672213.1.1501
+656,OTU656,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,HQ672048.1.1451
+1574,OTU1574,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,HQ671824.1.1501
+766,OTU766,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,DQ009291.1.2219
+199,OTU199,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,GQ349786.1.1320
+1432,OTU1432,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospira,HQ671977.1.1462
+1289,OTU1289,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS2b marine group,HQ673647.1.1492
+939,OTU939,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ673172.1.1474
+1117,OTU1117,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,JQ222041.1.915
+1278,OTU1278,Bacteria,Proteobacteria,AEGEAN-245,,,,HQ673776.1.1505
+1342,OTU1342,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,AY726883.1.1242
+4410,OTU4410,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Leptothrix,HQ754131.1.1450
+1264,OTU1264,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ674220.1.1476
+1481,OTU1481,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673737.1.1489
+2384,OTU2384,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673157.1.1513
+1233,OTU1233,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,HQ674088.1.1501
+1378,OTU1378,Archaea,Thaumarchaeota,Sc-EA05,,,,AB193991.1.1443
+636,OTU636,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,GU234872.1.1374
+1978,OTU1978,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,HQ673378.1.1517
+1057,OTU1057,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673536.1.1466
+1578,OTU1578,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,HQ672881.1.1504
+2242,OTU2242,Bacteria,Verrucomicrobia,Opitutae,Puniceicoccales,Puniceicoccaceae,,AACY020016122.205.1491
+813,OTU813,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Formosa,FQ032821.27163.28678
+1332,OTU1332,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Roseibacillus,CAGN02000147.4055.5576
+625,OTU625,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,Thiothrix,DQ009139.1.2091
+1245,OTU1245,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ227077.1.1367
+1251,OTU1251,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,JN860396.1.1488
+897,OTU897,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ673997.1.1445
+1802,OTU1802,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ163761.1.1367
+881,OTU881,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GQ351220.1.1437
+1748,OTU1748,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EU491156.1.1522
+1060,OTU1060,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,EU686636.3067.4530
+984,OTU984,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 4,,GQ350009.1.1324
+280,OTU280,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,AY726977.1.1207
+326,OTU326,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU802292.1.1292
+3025,OTU3025,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Albimonas,JN837486.1.1427
+1435,OTU1435,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,Nitrospina,HQ672600.1.1485
+1469,OTU1469,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,HQ673528.1.1465
+973,OTU973,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,AACY020324837.147.1652
+2826,OTU2826,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinobacterium,EF379714.1.1505
+803,OTU803,Bacteria,Verrucomicrobia,Opitutae,MB11C04 marine group,,,EF574610.1.1506
+1889,OTU1889,Bacteria,Lentisphaerae,Lentisphaeria,R76-B128,,,EF574345.1.1539
+339,OTU339,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,GU061825.1.1499
+953,OTU953,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,uncultured,,EF574964.1.1522
+182,OTU182,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GU940747.1.1343
+1777,OTU1777,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU061750.1.1434
+1270,OTU1270,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU062146.1.1447
+1846,OTU1846,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,GU061476.1.1445
+1797,OTU1797,Bacteria,Cyanobacteria,Chloroplast,,,,GU940969.1.1355
+928,OTU928,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,AY663889.1.1236
+1717,OTU1717,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,JX206564.1.1446
+722,OTU722,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,EF575065.1.1452
+1663,OTU1663,Bacteria,Proteobacteria,TA18,,,,EF575141.1.1448
+1070,OTU1070,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,FJ745131.1.1372
+994,OTU994,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Marinoscillum,JN233527.1.1440
+322,OTU322,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU802502.1.1451
+616,OTU616,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,EU650238.1.1337
+1650,OTU1650,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ497426.1.1505
+932,OTU932,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF575316.1.1499
+2255,OTU2255,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF584102.1.1469
+2480,OTU2480,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JQ904728.1.1440
+2100,OTU2100,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,Salinisphaera,AFNV01000049.76889.78424
+1052,OTU1052,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY726953.1.1250
+2264,OTU2264,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ497481.1.1464
+2387,OTU2387,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AB457051.1.1482
+1005,OTU1005,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY726882.1.1244
+1069,OTU1069,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,GQ377796.1.1243
+1536,OTU1536,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ626887.1.1400
+2439,OTU2439,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,Salinisphaera,EU740417.1.1470
+3019,OTU3019,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,GU108560.1.1408
+2512,OTU2512,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Leeuwenhoekiella,FQ032804.31701.33214
+3005,OTU3005,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,DQ396343.1.1478
+400,OTU400,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,EU802459.1.1439
+1158,OTU1158,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673826.1.1508
+561,OTU561,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,EU802868.1.1480
+2093,OTU2093,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ337165.1.1513
+1224,OTU1224,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ673241.1.1522
+1195,OTU1195,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ673860.1.1468
+730,OTU730,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,GQ351168.1.1436
+359,OTU359,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672283.1.1257
+715,OTU715,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,DQ513090.1.1481
+1142,OTU1142,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ672449.1.1501
+1369,OTU1369,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,HQ672817.1.1480
+882,OTU882,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673968.1.1448
+1987,OTU1987,Archaea,Thaumarchaeota,Marine Group I,,,,JQ227409.1.1285
+1004,OTU1004,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672574.1.1497
+1062,OTU1062,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672471.1.1437
+1038,OTU1038,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672825.1.1447
+942,OTU942,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672669.1.1446
+1842,OTU1842,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,JQ222279.1.913
+648,OTU648,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672013.1.1445
+785,OTU785,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672108.1.1451
+677,OTU677,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ226757.1.1346
+1337,OTU1337,Bacteria,Cyanobacteria,Chloroplast,,,,AF001654.1.1479
+905,OTU905,Bacteria,Cyanobacteria,Chloroplast,,,,FR683981.1.1460
+1395,OTU1395,Bacteria,Cyanobacteria,Chloroplast,,,,FJ744842.1.1329
+1320,OTU1320,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ225307.1.1344
+1176,OTU1176,Bacteria,Cyanobacteria,Chloroplast,,,,FR684736.1.1469
+1370,OTU1370,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,DQ009427.1.2076
+1658,OTU1658,Bacteria,Cyanobacteria,Chloroplast,,,,FJ612433.1.1395
+1708,OTU1708,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,HQ242261.1.1500
+2197,OTU2197,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ222736.1.1337
+794,OTU794,Bacteria,Cyanobacteria,Chloroplast,,,,EU268117.1.1452
+1266,OTU1266,Bacteria,Cyanobacteria,Chloroplast,,,,FJ826491.1.1449
+1205,OTU1205,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JN833331.1.1017
+1713,OTU1713,Bacteria,Proteobacteria,Deltaproteobacteria,Sh765B-TzT-29,,,HQ671966.1.1464
+1180,OTU1180,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,EF597698.1.1403
+2883,OTU2883,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,HQ672130.1.1515
+1800,OTU1800,Bacteria,Cyanobacteria,Chloroplast,,,,FJ745161.1.1323
+2042,OTU2042,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,HQ671846.1.1482
+1690,OTU1690,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672103.1.1445
+1513,OTU1513,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU268113.1.1449
+1813,OTU1813,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,OM43 clade,FR684189.1.1465
+2442,OTU2442,Archaea,Thaumarchaeota,Marine Group I,Order Incertae Sedis,Family Incertae Sedis,Candidatus Nitrosopumilus,GU553802.1.1446
+2657,OTU2657,Archaea,Thaumarchaeota,Marine Group I,,,,JQ224467.1.1339
+1992,OTU1992,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,GQ346805.1.1398
+1549,OTU1549,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,GQ348084.1.1384
+941,OTU941,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ674207.1.1447
+1705,OTU1705,Bacteria,Chloroflexi,SAR202 clade,,,,JN233054.1.1435
+916,OTU916,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672388.1.1436
+1217,OTU1217,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,JN018915.1.1419
+848,OTU848,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ652519.1.1341
+793,OTU793,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673642.1.1465
+776,OTU776,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,JN874348.1.1526
+1599,OTU1599,Archaea,Thaumarchaeota,Marine Group I,,,,EF597697.1.952
+2958,OTU2958,Archaea,Thaumarchaeota,Marine Group I,,,,AF121999.1.911
+2790,OTU2790,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group III,,EU650260.1.1318
+3013,OTU3013,Archaea,Thaumarchaeota,Marine Group I,,,,HQ529855.1.916
+473,OTU473,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,EF572280.1.1488
+1191,OTU1191,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,Thiothrix,EU010224.1.1421
+249,OTU249,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803115.1.1438
+835,OTU835,Bacteria,Cyanobacteria,Chloroplast,,,,HM565911.2962.4423
+443,OTU443,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 2,,EU803168.1.1439
+430,OTU430,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,Candidatus Pelagibacter,HQ672662.1.1448
+917,OTU917,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ674120.1.1448
+1055,OTU1055,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673652.1.1436
+972,OTU972,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672614.1.1428
+1374,OTU1374,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672430.1.1446
+844,OTU844,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672841.1.1434
+1185,OTU1185,Bacteria,Cyanobacteria,Chloroplast,,,,AY663909.1.1257
+1186,OTU1186,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Fluviicola,HQ671843.1.1485
+934,OTU934,Bacteria,Cyanobacteria,Chloroplast,,,,HQ242621.1.1446
+1562,OTU1562,Bacteria,Cyanobacteria,Chloroplast,,,,X90641.1.1495
+1298,OTU1298,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,uncultured,HQ225273.1.1502
+1126,OTU1126,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY664213.1.1242
+1422,OTU1422,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ225306.1.1339
+1241,OTU1241,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU800569.1.1501
+1424,OTU1424,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ223014.1.1367
+1149,OTU1149,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,HQ541865.1.1460
+1056,OTU1056,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ226616.1.1299
+1566,OTU1566,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ226401.1.1306
+1630,OTU1630,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,AHCG01000072.3865.5305
+893,OTU893,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,AY744399.55976.57385
+1680,OTU1680,Bacteria,Cyanobacteria,Chloroplast,,,,AM747382.1.1283
+930,OTU930,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,HQ163320.1.1376
+1335,OTU1335,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,HQ671881.1.1488
+1953,OTU1953,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,FJ613602.1.1487
+2709,OTU2709,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,AF505725.1.1493
+3177,OTU3177,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,AB016054.1.1536
+3251,OTU3251,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,DQ270712.1.1478
+3346,OTU3346,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,AB016055.1.1531
+3431,OTU3431,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,AY167286.1.1489
+3662,OTU3662,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,AJ551107.1.1684
+3519,OTU3519,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,JF268251.1.1423
+3663,OTU3663,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,EU434433.1.1417
+3763,OTU3763,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,FJ535252.1.1363
+3888,OTU3888,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,AM269904.1.1416
+3442,OTU3442,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,GQ984355.1.1500
+4226,OTU4226,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,EU781522.1.1468
+3922,OTU3922,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,HM593102.1.1447
+811,OTU811,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,AY726957.1.1217
+4249,OTU4249,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,FJ193732.1.1447
+1657,OTU1657,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,DQ490980.1.1469
+1973,OTU1973,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,AAQG01000006.168651.170147
+2453,OTU2453,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,AY833570.1.1506
+2087,OTU2087,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Aurantimonadaceae,Martelella,GU086202.1.1390
+2310,OTU2310,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Aurantimonadaceae,Martelella,HM800924.1.1495
+2787,OTU2787,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,CU927082.1.1339
+2655,OTU2655,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Gramella,JF421212.1.1492
+3017,OTU3017,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Croceicoccus,FJ497684.1.1292
+3191,OTU3191,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,GQ246711.1.1430
+3291,OTU3291,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,HM127167.1.1409
+1872,OTU1872,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,DQ396194.1.1479
+1862,OTU1862,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,uncultured,EU488272.1.1451
+1745,OTU1745,Archaea,Thaumarchaeota,Marine Group I,,,,JQ221004.1.915
+2573,OTU2573,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Henriciella,DQ395891.1.1449
+3484,OTU3484,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,AY162103.1.1337
+2078,OTU2078,Archaea,Thaumarchaeota,Marine Group I,Order Incertae Sedis,Family Incertae Sedis,Candidatus Nitrosopumilus,FJ487498.1.1367
+3557,OTU3557,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,AM158907.1.1450
+1533,OTU1533,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,GQ153640.1.1499
+3946,OTU3946,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,JQ839690.1.1433
+1576,OTU1576,Archaea,Thaumarchaeota,F9P122000-Arc-2-E02,,,,JQ221038.1.914
+600,OTU600,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,AF115271.1.1404
+389,OTU389,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU802383.1.1451
+285,OTU285,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,KC003249.1.1324
+334,OTU334,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,,,EU802438.1.1489
+2742,OTU2742,Bacteria,Cyanobacteria,Chloroplast,,,,JN625666.1.1390
+2340,OTU2340,Bacteria,Cyanobacteria,Chloroplast,,,,FJ826251.1.1219
+1489,OTU1489,Bacteria,Cyanobacteria,Chloroplast,,,,FJ826265.1.1219
+2949,OTU2949,Bacteria,Cyanobacteria,Chloroplast,,,,EU799354.1.1454
+3554,OTU3554,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,OM182 clade,,AY627382.1.1532
+2806,OTU2806,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Polaribacter,EU394574.1.1482
+2234,OTU2234,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,uncultured,FO117592.36865.38380
+4732,OTU4732,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Saprospiraceae,uncultured,FQ032814.11137.12652
+1964,OTU1964,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,EU544719.1.1435
+2948,OTU2948,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Formosa,JN233006.1.1447
+817,OTU817,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Loktanella,FJ825835.1.1428
+3258,OTU3258,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,OM60(NOR5) clade,DQ009135.1.2271
+1840,OTU1840,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade NAC11-7 lineage,HM057668.1.1437
+2304,OTU2304,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,JN591884.1.1486
+2336,OTU2336,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,uncultured,GQ349827.1.1370
+1710,OTU1710,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade NAC11-7 lineage,FR683792.1.1427
+925,OTU925,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,GQ347814.1.1378
+1107,OTU1107,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,FJ826119.1.1472
+5096,OTU5096,Bacteria,Cyanobacteria,Chloroplast,,,,EF508371.19577.21067
+2811,OTU2811,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade AS-21 lineage,HM057673.1.1435
+965,OTU965,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR683452.1.1468
+1098,OTU1098,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS2b marine group,AACY020458788.943.2444
+3504,OTU3504,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Roseibacillus,DQ395511.1.1537
+4109,OTU4109,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Formosa,GU230416.1.1482
+2165,OTU2165,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade NAC11-7 lineage,FJ826110.1.1441
+2718,OTU2718,Bacteria,Cyanobacteria,Chloroplast,,,,FJ612150.1.1429
+4709,OTU4709,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,uncultured,GQ347704.1.1365
+3282,OTU3282,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,Rhodobium,GQ274099.1.1475
+1986,OTU1986,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade NAC11-7 lineage,JX015618.1.1426
+2643,OTU2643,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU799400.1.1445
+2423,OTU2423,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Ulvibacter,GQ349579.1.1379
+991,OTU991,Bacteria,Cyanobacteria,Chloroplast,,,,EF574575.1.1450
+3680,OTU3680,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,OM182 clade,,EU800017.1.1503
+2991,OTU2991,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,GQ347003.1.1383
+1927,OTU1927,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,FJ825947.1.1482
+2266,OTU2266,Bacteria,Cyanobacteria,Chloroplast,,,,GU940745.1.1323
+2345,OTU2345,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Formosa,JN976225.1.1443
+1128,OTU1128,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR684554.1.1426
+2667,OTU2667,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,JN832934.1.1425
+5276,OTU5276,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,JF451310.1.1444
+1375,OTU1375,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Ulvibacter,EU795239.16117.17616
+604,OTU604,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU799981.1.1461
+1913,OTU1913,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,NS10 marine group,FQ032815.3262.4778
+1524,OTU1524,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,EU799832.1.1497
+1563,OTU1563,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Ulvibacter,FR686064.1.1480
+5312,OTU5312,Bacteria,Cyanobacteria,Chloroplast,,,,AB294341.1.1415
+411,OTU411,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,EU544748.1.1454
+1258,OTU1258,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672210.1.1440
+2346,OTU2346,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade OCT lineage,HQ242201.1.1427
+2371,OTU2371,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,FR686054.1.1414
+638,OTU638,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,EF645948.1.1485
+668,OTU668,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR683683.1.1457
+1675,OTU1675,Bacteria,Cyanobacteria,Chloroplast,,,,EF575192.1.1449
+1749,OTU1749,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,FJ826169.1.1468
+3479,OTU3479,Bacteria,Cyanobacteria,Chloroplast,,,,U70724.1.1482
+1478,OTU1478,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,FJ825854.1.1399
+2072,OTU2072,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,FR684035.1.1485
+2976,OTU2976,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Formosa,JQ678522.1.1510
+3217,OTU3217,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,NS11-12 marine group,,FQ032816.6456.7971
+1456,OTU1456,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR684215.1.1469
+2065,OTU2065,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade OCT lineage,GQ347996.1.1307
+2821,OTU2821,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade NAC11-7 lineage,FJ826087.1.1421
+3993,OTU3993,Bacteria,Cyanobacteria,ML635J-21,,,,FJ826302.1.1489
+2706,OTU2706,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,OM182 clade,,EU800056.1.1505
+3736,OTU3736,Bacteria,Cyanobacteria,Chloroplast,,,,EU799970.1.1467
+820,OTU820,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR683711.1.1469
+1048,OTU1048,Bacteria,Cyanobacteria,Chloroplast,,,,GQ231541.1.1478
+1103,OTU1103,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671986.1.1448
+875,OTU875,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672170.1.1447
+1166,OTU1166,Bacteria,Cyanobacteria,Chloroplast,,,,EF574811.1.1451
+629,OTU629,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ673821.1.1249
+1242,OTU1242,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,uncultured,,HQ672763.1.1478
+1235,OTU1235,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Arenicella,HQ674256.1.1502
+1129,OTU1129,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ673071.1.1436
+807,OTU807,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ674077.1.1446
+1391,OTU1391,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ674118.1.1512
+1572,OTU1572,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ672500.1.1485
+1803,OTU1803,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,HQ672671.1.1502
+367,OTU367,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672830.1.1436
+475,OTU475,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672273.1.1437
+1951,OTU1951,Bacteria,Cyanobacteria,Chloroplast,,,,HQ242623.1.1439
+1315,OTU1315,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,EF573752.1.1474
+1280,OTU1280,Bacteria,Cyanobacteria,Chloroplast,,,,HQ671933.1.1447
+1124,OTU1124,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672062.1.1463
+1586,OTU1586,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672216.1.1434
+838,OTU838,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Glaciecola,GU118928.1.1458
+2192,OTU2192,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oceanobacter,FJ497402.1.1420
+2204,OTU2204,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oceanobacter,DQ337006.1.1494
+1355,OTU1355,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,EF061422.1.1421
+2049,OTU2049,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,uncultured,HM569768.1.1484
+1669,OTU1669,Bacteria,Cyanobacteria,Chloroplast,,,,HQ672204.1.1459
+2067,OTU2067,Bacteria,Cyanobacteria,Chloroplast,,,,AY664169.1.1279
+1758,OTU1758,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,mitochondria,,GU941026.1.1315
+886,OTU886,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JN591984.1.1424
+2081,OTU2081,Bacteria,Cyanobacteria,Chloroplast,,,,EF574288.1.1436
+357,OTU357,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU802696.1.1439
+3029,OTU3029,Bacteria,Candidate division OD1,,,,,AB193914.1.1558
+1655,OTU1655,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY576713.1.1487
+1878,OTU1878,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JQ753117.1.1499
+4327,OTU4327,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,EU236386.1.1368
+924,OTU924,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JX436383.1.1402
+1023,OTU1023,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF584092.1.1434
+1132,OTU1132,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EU136629.1.1439
+1895,OTU1895,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY664275.1.1237
+4701,OTU4701,Bacteria,Candidate division OD1,,,,,AACY020292957.227.1544
+5555,OTU5555,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Brumimicrobium,FN994947.1.1357
+1257,OTU1257,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,AY345469.1.1433
+791,OTU791,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,DQ492738.1.1429
+1654,OTU1654,Bacteria,Cyanobacteria,Chloroplast,,,,AY664138.1.1204
+751,OTU751,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,EU805358.1.1525
+2260,OTU2260,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Herbiconiux,HQ166794.1.1343
+1936,OTU1936,Bacteria,Planctomycetes,Planctomycetacia,Planctomycetales,Planctomycetaceae,Rhodopirellula,JN166243.1.1480
+1681,OTU1681,Bacteria,Chloroflexi,SAR202 clade,,,,AY869680.1.1463
+2951,OTU2951,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Herbiconiux,FJ825783.1.1479
+1966,OTU1966,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Thalassospira,HM057728.1.1480
+1808,OTU1808,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,AF001653.1.1553
+1318,OTU1318,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bdellovibrionaceae,OM27 clade,EF574353.1.1482
+2992,OTU2992,Bacteria,Verrucomicrobia,Opitutae,Puniceicoccales,Puniceicoccaceae,Pelagicoccus,KC001632.1.1388
+640,OTU640,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ671887.1.1246
+1851,OTU1851,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,JN874066.1.1482
+1618,OTU1618,Bacteria,Chloroflexi,SAR202 clade,,,,HQ674551.1.1463
+2219,OTU2219,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Hyphomonas,JX047105.1.1421
+1691,OTU1691,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,uncultured,AY770963.1.1477
+1741,OTU1741,Bacteria,Chloroflexi,SAR202 clade,,,,GQ337267.1.1475
+1983,OTU1983,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,HQ166808.1.1359
+1336,OTU1336,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,HQ674261.1.1518
+1985,OTU1985,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,FJ169986.1.1505
+1204,OTU1204,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673011.1.1478
+2870,OTU2870,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,JQ337874.1.1506
+2080,OTU2080,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,GQ921360.1.1497
+1415,OTU1415,Bacteria,Proteobacteria,Gammaproteobacteria,E01-9C-26 marine group,,,HQ672585.1.1501
+1041,OTU1041,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ674234.1.1446
+1467,OTU1467,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,AB053126.1.1535
+2111,OTU2111,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospira,HQ674482.1.1462
+499,OTU499,Bacteria,Cyanobacteria,Chloroplast,,,,EU237456.1.1310
+1605,OTU1605,Bacteria,Cyanobacteria,Chloroplast,,,,EF573851.1.1447
+1050,OTU1050,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Prochlorococcus,EF573979.1.1443
+968,OTU968,Bacteria,Cyanobacteria,Chloroplast,,,,AACY020080403.492.1950
+1899,OTU1899,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,marine group,CP001842.3507.4983
+373,OTU373,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU802666.1.1436
+1765,OTU1765,Bacteria,Cyanobacteria,Chloroplast,,,,AY702176.1.1422
+2410,OTU2410,Bacteria,Cyanobacteria,Chloroplast,,,,GU941076.1.1291
+2717,OTU2717,Bacteria,Cyanobacteria,Chloroplast,,,,JX537830.1.1321
+2045,OTU2045,Bacteria,Cyanobacteria,Chloroplast,,,,GQ348575.1.1324
+1187,OTU1187,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,EF572066.1.1488
+1037,OTU1037,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,JQ678482.1.1451
+1110,OTU1110,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672859.1.1508
+979,OTU979,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,HQ672326.1.1437
+1016,OTU1016,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,HQ673396.1.1435
+1024,OTU1024,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Deep 1,,GQ377765.1.1255
+476,OTU476,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,SAR116 clade,,EU802815.1.1448
+468,OTU468,Bacteria,Cyanobacteria,Chloroplast,,,,JN117275.38398.39880
+1679,OTU1679,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Formosa,FR683378.1.1485
+396,OTU396,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR683618.1.1414
+436,OTU436,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ242546.1.1435
+1283,OTU1283,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,EU795094.11172.12675
+650,OTU650,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR684885.1.1494
+761,OTU761,Bacteria,Cyanobacteria,Chloroplast,,,,GU235602.1.1346
+433,OTU433,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR684960.1.1420
+525,OTU525,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,FN433409.1.1491
+469,OTU469,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ242379.1.1434
+2143,OTU2143,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,DQ396337.1.1556
+537,OTU537,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU799308.1.1374
+764,OTU764,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,EU800224.1.1388
+320,OTU320,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,FR683900.1.1492
+970,OTU970,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,FQ032803.11245.12758
+608,OTU608,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,HQ672335.1.1435
+679,OTU679,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,HQ242112.1.1485
+509,OTU509,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR684247.1.1444
+2545,OTU2545,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,GQ349627.1.1369
+2301,OTU2301,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR684766.1.1486
+2368,OTU2368,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,EU795244.966.2471
+1393,OTU1393,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,EU800996.1.1423
+1531,OTU1531,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,JN177596.1.1444
+2179,OTU2179,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ222974.1.1365
+1183,OTU1183,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR685247.1.1424
+747,OTU747,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,HQ163262.1.1344
+1397,OTU1397,Bacteria,Cyanobacteria,Chloroplast,,,,EU268108.1.1451
+1192,OTU1192,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS2b marine group,FR683443.1.1480
+1801,OTU1801,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,uncultured,FR685722.1.1484
+2159,OTU2159,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,JN591877.1.1479
+498,OTU498,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,Surface 1,,FR685627.1.1379
+1327,OTU1327,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,FJ825880.1.1478
+2363,OTU2363,Bacteria,Cyanobacteria,Chloroplast,,,,FJ456816.1.1475
+659,OTU659,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,FR684049.1.1494
+1066,OTU1066,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR684614.1.1497
+871,OTU871,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Balneatrix,GU235804.1.1382
+1085,OTU1085,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Balneatrix,EU544738.1.1465
+2132,OTU2132,Bacteria,Cyanobacteria,Chloroplast,,,,EU005678.1.1414
+1321,OTU1321,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Balneatrix,GU235809.1.1374
+1608,OTU1608,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS5 marine group,EU795252.9081.10590
+1709,OTU1709,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,JN177647.1.1439
+1900,OTU1900,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,GQ337292.1.1461
+1947,OTU1947,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,JN177592.1.1446
+1300,OTU1300,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinobacterium,FR684349.1.1497
+1398,OTU1398,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,AY697919.1.1436
+1570,OTU1570,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR684911.1.1497
+1461,OTU1461,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Balneatrix,HQ671842.1.1493
+2003,OTU2003,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter clade DC5-80-3 lineage,JN177595.1.1444
+1254,OTU1254,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,FR684227.1.1444
+1322,OTU1322,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU544837.1.1428
+1824,OTU1824,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Balneatrix,FR683359.1.1497
+2114,OTU2114,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,HQ242389.1.1489
+1885,OTU1885,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Balneatrix,EU544808.1.1486
+381,OTU381,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,uncultured,EU919781.1.1500
+670,OTU670,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,JN832936.1.1411
+1240,OTU1240,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,ZD0405,,GU235070.1.1379
+792,OTU792,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Polaribacter,AF354621.1.1477
+951,OTU951,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Polaribacter,JQ753157.1.1489
+1181,OTU1181,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,EU919846.1.1477
+1202,OTU1202,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,GU234821.1.1376
+988,OTU988,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Polaribacter,AAOG01000005.3703.5223
+1382,OTU1382,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,SAR92 clade,GU235229.1.1374
+1139,OTU1139,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Sufflavibacter,GU235590.1.1367
+1743,OTU1743,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,GU234830.1.1378
+2002,OTU2002,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Reichenbachiella,EU919792.1.1484
+2586,OTU2586,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,JQ678498.1.1506
+2316,OTU2316,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,uncultured,DQ396288.1.1534
+1588,OTU1588,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,JQ678500.1.1545
+3206,OTU3206,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,JN976344.1.1459
+1232,OTU1232,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Marine Group II,,JQ221011.1.915
+1672,OTU1672,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ672842.1.1478
+1074,OTU1074,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,SAR406 clade(Marine group A),,HQ672419.1.1520
+2052,OTU2052,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ672502.1.1488
+2533,OTU2533,Bacteria,Lentisphaerae,Lentisphaeria,Victivallales,Victivallaceae,uncultured,EU686587.16947.18447
+1925,OTU1925,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,HQ672701.1.1507
+3745,OTU3745,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,DQ395037.1.1491
+4136,OTU4136,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,EU287171.1.1505
+3167,OTU3167,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,uncultured,JX016104.1.1480
+1687,OTU1687,Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,ZD0417 marine group,HQ673473.1.1519
+4312,OTU4312,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,JN874224.1.1504
+2008,OTU2008,Bacteria,Chloroflexi,SAR202 clade,,,,HQ674260.1.1476
+4292,OTU4292,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,U85841.1.1485
+4246,OTU4246,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,EU286985.1.1497
+2651,OTU2651,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,JL-ETNP-Y6,,HQ673394.1.1502
+4359,OTU4359,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,U85845.1.1503
+1340,OTU1340,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Sva0996 marine group,,HQ673353.1.1476
+1558,OTU1558,Bacteria,Proteobacteria,Gammaproteobacteria,Order Incertae Sedis,Family Incertae Sedis,Arenicella,HQ673364.1.1501
+4131,OTU4131,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,GU061308.1.1461
+4540,OTU4540,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,EU617783.1.1502
+1407,OTU1407,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,GU235112.1.1356
+4152,OTU4152,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Cryomorphaceae,Owenweeksia,JQ579911.1.1480
+4604,OTU4604,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,AY375080.1.1497
+4683,OTU4683,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,U85846.1.1486
+1912,OTU1912,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,HQ673994.1.1476
+2555,OTU2555,Bacteria,Cyanobacteria,Chloroplast,,,,AJ536466.1.1477
+4704,OTU4704,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,AY167340.1.1444
+4720,OTU4720,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,GU061318.1.1455
+1981,OTU1981,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,NS9 marine group,,EU919815.1.1484
+4837,OTU4837,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,EU617785.1.1505
+2578,OTU2578,Bacteria,Fusobacteria,Fusobacteriia,BS1-0-74,,,HQ673183.1.1490
+2091,OTU2091,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),,,AY726886.1.1207
+2162,OTU2162,Bacteria,Verrucomicrobia,Arctic97B-4 marine group,,,,HQ163260.1.1400
+3418,OTU3418,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,uncultured,GQ348085.1.1376
+1603,OTU1603,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Pseudospirillum,GU235453.1.1363
+1476,OTU1476,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Polaribacter,GU235633.1.1364
+1156,OTU1156,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF061450.1.1442
+1178,OTU1178,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF194102.1.1428
+1170,OTU1170,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ826102.1.1440
+1343,OTU1343,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF584014.1.1439
+1551,OTU1551,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,DQ677306.1.1446
+1366,OTU1366,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,GU108553.1.1390
+1839,OTU1839,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,FR744842.1.1447
+1577,OTU1577,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ825894.1.1440
+2231,OTU2231,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Rheinheimera,AM183347.1.1476
+1594,OTU1594,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AHCC01000059.1.1362
+1838,OTU1838,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JN177654.1.1494
+2022,OTU2022,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,GQ377776.1.1254
+1834,OTU1834,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY664286.1.1235
+1901,OTU1901,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY664287.1.1272
+1783,OTU1783,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JX436398.1.1386
+1788,OTU1788,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY726970.1.1273
+2088,OTU2088,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JX436391.1.1275
+2101,OTU2101,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,DQ520891.1.1418
+2374,OTU2374,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,AJ936947.1.1237
+2039,OTU2039,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,GU108554.1.1400
+2190,OTU2190,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,JF173531.1.1357
+2564,OTU2564,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF584090.1.1428
+2895,OTU2895,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Rheinheimera,DQ116002.1.1486
+2625,OTU2625,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AB055794.1.1498
+2650,OTU2650,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,FJ457317.1.1419
+2702,OTU2702,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,HM142467.1.1498
+2688,OTU2688,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AY028199.1.1448
+2647,OTU2647,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AF045560.1.1449
+2604,OTU2604,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,AM778463.1.1516
+2710,OTU2710,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,AM778456.1.1462
+2671,OTU2671,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,JQ083317.1.1465
+2778,OTU2778,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AM111094.1.1500
+2732,OTU2732,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,AY162114.1.1412
+2917,OTU2917,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EU050780.1.1423
+1829,OTU1829,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,GU108551.1.1401
+2896,OTU2896,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,EF584015.1.1461
+840,OTU840,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,uncultured,EU799541.1.1385
+2490,OTU2490,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,FJ200648.1.1503
+2988,OTU2988,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,AM990725.1.1370
+2940,OTU2940,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,JN606901.1.1376
+2873,OTU2873,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Olleya,JX844463.1.1384
+3172,OTU3172,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Arcobacter,HM057677.1.1487
+3103,OTU3103,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Olleya,AM180740.1.1602
+2248,OTU2248,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oleispira,JQ753126.1.1502
+2769,OTU2769,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oleispira,GQ926871.1.1619
+3641,OTU3641,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Arcobacter,HM057681.1.1486
+3570,OTU3570,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,,JQ678566.1.1505
+3803,OTU3803,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Arcobacter,HM057798.1.1502
+4014,OTU4014,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Arcobacter,AJ810559.1.1432
+3371,OTU3371,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,AM111033.1.1494
+1036,OTU1036,Bacteria,Cyanobacteria,Cyanobacteria,SubsectionI,FamilyI,Synechococcus,HQ671996.1.1459
+207,OTU207,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,GU235821.1.1320
+1477,OTU1477,Bacteria,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,NS4 marine group,FQ032819.21712.23225
+414,OTU414,Bacteria,Proteobacteria,Alphaproteobacteria,SAR11 clade,,,EU803075.1.1449
+1732,OTU1732,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,HQ674248.1.1463
+403,OTU403,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,SAR86 clade,,AF382133.1.1488
