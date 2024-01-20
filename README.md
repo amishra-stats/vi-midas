@@ -1,4 +1,5 @@
-# VI-MIDAS: a variational inference for microbiome survey data analysis
+# VI-MIDAS: Variational inference for microbiome survey data
+
 We present a probabilistic multivariate framework VI-MIDAS to jointly model the microbial abundance data as outcomes in terms of components related to host/environment-associated factors and species-species interactions.   The framework uniquely expresses the interactions among species in terms of the species-speciefic latent vectors of a fixed length. 
 
 ![VI-MIDAS](https://i.imgur.com/JKaNOio.png)
