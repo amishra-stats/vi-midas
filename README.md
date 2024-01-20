@@ -1,7 +1,7 @@
 # VI-MIDAS: a variational inference for microbiome survey data analysis
 We present a probabilistic multivariate framework VI-MIDAS to jointly model the microbial abundance data as outcomes in terms of components related to host/environment-associated factors and species-species interactions.   The framework uniquely expresses the interactions among species in terms of the species-speciefic latent vectors of a fixed length. 
 
-<img src="[https://imgur.com/a/PCfhsOT](https://imgur.com/a/PCfhsOT)" alt="vimidas" height="120" align="center"/>
+<img src="[VI-MIDAS](https://imgur.com/a/PCfhsOT.png)" alt="vimidas" height="120" align="center"/>
 
 
 Estimating the posterior distribution of the model parameters is challenfing because of intractable marginal distribution of the data. Using the framework of variational inference, we minimize the KL divergence, i.e., maximize evidence lower bound (ELBO) to obtain the variational posterior of the model parameters under the mean-field assumption. 
